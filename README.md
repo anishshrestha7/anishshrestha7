@@ -26,3 +26,10 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishshrestha7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's Top Languages" height="150" />
+</p>
