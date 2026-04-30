@@ -35,4 +35,8 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishshrestha7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's Top Languages" height="150" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishshrestha44/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikazeani/)
+## 🌟 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishshrestha44/) (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikazeani7@gmail.com)
