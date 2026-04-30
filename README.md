@@ -39,4 +39,4 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishshrestha44/) (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikazeani7@gmail.com)
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishshrestha44/) (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikazeani7@gmail.com)
