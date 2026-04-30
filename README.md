@@ -1,4 +1,4 @@
-🔗 Live Demo | Source Code
+
 # Hi there, I'm Anish Shrestha! 👋
 
 I'm an aspiring **Web Developer** based in Nepal, focused on building clean, accessible, and high-performance web applications.i am always eager to learn and explore new tools and framework.
