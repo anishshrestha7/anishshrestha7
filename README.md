@@ -28,6 +28,8 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishshrestha7&layout=compact&theme=vision-friendly-dark)
+
 ### 📊 GitHub Stats
 
 <p align="left">
