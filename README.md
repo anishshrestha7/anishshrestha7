@@ -31,8 +31,8 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" height="150" />
-[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark)](https://github.com/anishshrestha7)
+  <img src="https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" height="150" />
+</p>
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
