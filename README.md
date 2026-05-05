@@ -32,11 +32,7 @@ I'm an aspiring **Web Developer** based in Nepal, focused on building clean, acc
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishshrestha7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Anish's Top Languages" height="150" />
-</p>
 
-[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishshrestha7&show_icons=true&theme=dark)](https://github.com/anishshrestha7)
-## 🌟 Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
